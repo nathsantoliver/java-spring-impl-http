@@ -15,7 +15,7 @@ public class ProductService {
         products.add(p);
     }
 
-    public List<Product> finndAll() {
+    public List<Product> findAll() {
         return products;
     }
 
